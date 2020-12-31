@@ -1,0 +1,27 @@
+{
+  "name": "weatherlink",
+  "version": "1.0.0",
+  "description": "A wrapper library for WeatherLink v2 API",
+  "keywords": [
+    "weatherlink",
+    "api",
+    "weather",
+    "davis"
+  ],
+  "bugs": "https://github.com/AlessandroAnnini/weatherlink/issues",
+  "license": "MIT License",
+  "author": "Alessandro Annini",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlessandroAnnini/weatherlink"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "date-fns": "^2.16.1",
+    "node-fetch": "^2.6.1"
+  }
+}
