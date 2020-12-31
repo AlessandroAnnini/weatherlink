@@ -16,6 +16,9 @@
     "type": "git",
     "url": "https://github.com/AlessandroAnnini/weatherlink"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
