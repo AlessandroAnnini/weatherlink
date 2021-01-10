@@ -1,4 +1,4 @@
-[![https://nodei.co/npm/weatherlink.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/weatherlink.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/YOUR-MODULE-NAME)
+[![https://nodei.co/npm/weatherlink.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/weatherlink.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/weatherlink)
 
 # Weatherlink
 
